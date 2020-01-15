@@ -2643,7 +2643,12 @@
 	  background-image: url("https://i.hizliresim.com/1pQ0O5.jpg");
 	  border-radius: 50%;
 	  background-size: cover;
+	  position: absolute;
+	  margin-top: -20px; /* ADDED */
+	  margin-left: 0px; /* ADDED */
 	}
+
+
 	.image {
 		border-radius: 0.25em;
 		border: 0;
@@ -2982,6 +2987,7 @@
 		Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 	*/
 
+
 /* Split */
 
 	.split {
@@ -3313,7 +3319,7 @@
 		.wrapper > .inner {
 			padding: 5em 5em 3em 5em ;
 			max-width: 100%;
-			width: 75em;
+			width: 60em;
 		}
 
 			@media screen and (max-width: 1680px) {
@@ -4001,7 +4007,6 @@
 		html5up.net | @n33co
 		Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 	*/
-	
 
 /* Intro */
 
