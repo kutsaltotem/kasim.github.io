@@ -3313,13 +3313,13 @@
 /* Wrapper */
 
 	.wrapper {
-		position: relative;
+		position: ;
 	}
 
 		.wrapper > .inner {
-			padding: 5em 5em 3em 5em ;
+			padding: 0em 5em 3em 5em ;
 			max-width: 100%;
-			width: 60em;
+			width: 80em;
 		}
 
 			@media screen and (max-width: 1680px) {
@@ -3391,7 +3391,7 @@
 		}
 
 			body.is-ie .wrapper.fullscreen {
-				height: 100vh;
+				height: 00vh;
 			}
 
 			@media screen and (max-width: 1280px) {
@@ -4021,6 +4021,7 @@
 	#intro {
 		height: 10px;
 		width: 100%;
+		padding: 0px;
 		background-attachment: fixed;
 		background-image: url("images/intro.svg");
 		background-position: top right;
