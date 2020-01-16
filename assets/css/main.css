@@ -4009,6 +4009,14 @@
 	*/
 
 /* Intro */
+	
+	#two {
+		background-image: url(images/intro.svg);
+	}
+	#three {
+		background-image: url(images/intro.svg);
+	}	
+
 
 	#intro {
 		height: 10px;
