@@ -2644,7 +2644,7 @@
 	  border-radius: 50%;
 	  background-size: cover;
 	  position: absolute;
-	  margin-top: -20px; /* ADDED */
+	  margin-top: -50px; /* ADDED */
 	  margin-left: 0px; /* ADDED */
 	}
 
@@ -3387,7 +3387,7 @@
 			-webkit-justify-content: center;
 			-ms-justify-content: center;
 			justify-content: center;
-			min-height: 100vh;
+			min-height: 50vh;
 		}
 
 			body.is-ie .wrapper.fullscreen {
@@ -4011,6 +4011,8 @@
 /* Intro */
 
 	#intro {
+		height: 10px;
+		width: 100%;
 		background-attachment: fixed;
 		background-image: url("images/intro.svg");
 		background-position: top right;
@@ -4019,6 +4021,8 @@
 	}
 
 		#intro p {
+			height: 100px;
+			width: 100%;			
 			font-size: 1.25em;
 		}
 
