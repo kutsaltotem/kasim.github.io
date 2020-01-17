@@ -2644,8 +2644,8 @@
 	  border-radius: 50%;
 	  background-size: cover;
 	  position: absolute;
-	  margin-top: -50px; /* ADDED */
-	  margin-left: 0px; /* ADDED */
+	  margin-top: -80px; /* ADDED */
+	  margin-left: -20px; /* ADDED */
 	}
 
 
