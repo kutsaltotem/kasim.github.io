@@ -227,7 +227,7 @@
         autoStart: true,
         date: null,
         fast: true,
-        end: function(),
+        end: $.noop,
         text: "%s days, %s hours, %s minutes, %s seconds"
     };
 
