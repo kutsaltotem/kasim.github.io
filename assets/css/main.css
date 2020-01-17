@@ -3319,7 +3319,7 @@
 		.wrapper > .inner {
 			padding: 0em 5em 3em 5em ;
 			max-width: 100%;
-			width: 80em;
+			width: 60em;
 		}
 
 			@media screen and (max-width: 1680px) {
