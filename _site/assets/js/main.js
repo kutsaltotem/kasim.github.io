@@ -37,7 +37,7 @@
 		// Forms.
 
 			// Fix: Placeholder polyfill.
-				$('form').placeholder();
+			//	$('form').placeholder();
 
 			// Hack: Activate non-input submits.
 				$('form').on('click', '.submit', function(event) {
